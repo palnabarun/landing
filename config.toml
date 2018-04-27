@@ -1,0 +1,69 @@
+## Basic Configuration
+
+# baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Nabarun Pal"
+title = "Nabarun Pal"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "" # Comment out to disable Disqus.
+#googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Nabarun Pal"
+intro = "Software Developer | Systems Enthusiast | Open Source Enthusiast"
+description = "Inquisitive Lad, Keen problem solver, Learning Infrastructure and DevOps, Final Year @ Indian Institute of Technology Roorkee"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Landing Page for Nabarun Pal"
+keywords = "developer,blog,nabarun,pal,software,engineer"
+
+## Social Accounts
+[params.social]
+github = "palnabarun"
+#instagram = "<username>"
+#xing = "<username>"
+linkedin = "palnabarun"
+twitter = "_palnabarun"
+#facebook = "<username>"
+google = "pal.nabarun95"
+stackoverflow = "nabarun-pal"
+email = "pal@nabarun.in"
+
+## Extras
+[params.extra]
+#copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = ""
+poweredby = false
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog/"
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "coderag"
+    identifier = "coderag"
+    weight = 300
+    url = "/coderag/"
