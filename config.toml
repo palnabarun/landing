@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-# baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+baseurl = "https://www.nabarun.in/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
