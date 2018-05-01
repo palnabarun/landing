@@ -48,22 +48,22 @@ email = "pal@nabarun.in"
 [params.extra]
 #copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 copyright = ""
-poweredby = false
+# poweredby = false
 highlightjs = true
 
 ## Main Menu
-[[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog/"
-[[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
-[[menu.main]]
-    name = "coderag"
-    identifier = "coderag"
-    weight = 300
-    url = "/coderag/"
+# [[menu.main]]
+#     name = "blog"
+#     weight = 100
+#     identifier = "blog"
+#     url = "/blog/"
+# [[menu.main]]
+#     name = "about"
+#     identifier = "about"
+#     weight = 200
+#     url = "/about/"
+# [[menu.main]]
+#     name = "coderag"
+#     identifier = "coderag"
+#     weight = 300
+#     url = "/coderag/"
