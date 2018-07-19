@@ -22,9 +22,9 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Nabarun Pal"
-intro = "Software Developer | Systems Enthusiast | Open Source Enthusiast"
-description = "Inquisitive Lad, Keen problem solver, Learning Infrastructure and DevOps, Final Year @ Indian Institute of Technology Roorkee"
-authorimage = "headshot.jpg"
+intro = "Software Developer && (Systems|Open Source) Enthusiast"
+description = "Software Development Engineer @rorodata | Summer Fellow @numfocus | Google Udacity India Scholar | Senior year at IITR"
+authorimage = "pp.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
@@ -48,7 +48,7 @@ email = "pal@nabarun.in"
 [params.extra]
 #copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 copyright = ""
-# poweredby = false
+poweredby = true
 highlightjs = true
 
 ## Main Menu
@@ -58,12 +58,17 @@ highlightjs = true
 #     identifier = "blog"
 #     url = "/blog/"
 # [[menu.main]]
-#     name = "about"
+#     name = "about me"
 #     identifier = "about"
 #     weight = 200
 #     url = "/about/"
 # [[menu.main]]
-#     name = "coderag"
-#     identifier = "coderag"
+#     name = "cv"
+#     identifier = "cv"
 #     weight = 300
-#     url = "/coderag/"
+#     url = "/cv/"
+[[menu.main]]
+    name = "cv"
+    identifier = "cv"
+    weight = 100
+    url = "/cv.pdf"
