@@ -57,11 +57,11 @@ highlightjs = true
 #     weight = 100
 #     identifier = "blog"
 #     url = "/blog/"
-# [[menu.main]]
-#     name = "about me"
-#     identifier = "about"
-#     weight = 200
-#     url = "/about/"
+[[menu.main]]
+    name = "talks"
+    identifier = "talks"
+    weight = 200
+    url = "/talks/"
 # [[menu.main]]
 #     name = "cv"
 #     identifier = "cv"
