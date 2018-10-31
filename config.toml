@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Nabarun Pal"
-intro = "Software Engineer && (Systems | Open Source) Enthusiast"
-description = "Infrastructure Engineer @rorodata | Summer Fellow @numfocus | Google Udacity India Scholar | Graduate from IITR"
+intro = "Software Engineer && (Systems | Open Source) Enthusiast \n Full Time Pythonista && Noob Gopher"
+description = "Infrastructure @rorodata | Summer Fellow @numfocus | Google Udacity India Scholar | Graduate from IITRoorkee"
 authorimage = "pp.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -46,7 +46,7 @@ email = "pal@nabarun.in"
 
 ## Extras
 [params.extra]
-#copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+#copyright = "© 2016. Erlich Bachman. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
 copyright = ""
 poweredby = true
 highlightjs = true
