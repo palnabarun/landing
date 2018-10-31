@@ -71,4 +71,4 @@ highlightjs = true
     name = "cv"
     identifier = "cv"
     weight = 100
-    url = "/cv.pdf"
+    url = "/cv/"
