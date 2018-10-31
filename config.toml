@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Nabarun Pal"
-intro = "Software Engineer && (Systems | Open Source) Enthusiast <br/> Full Time Pythonista && Noob Gopher"
-description = "Infrastructure @rorodata | Summer Fellow @numfocus | Google Udacity India Scholar | Graduate from IITRoorkee"
+intro = "Software Engineer && {Systems,Open Source} Enthusiast <br/> Full Time Pythonista && Noob Gopher"
+description = "Infrastructure @rorodata | John Hunter Matplotlib Summer Fellow @numfocus <br/> Google Udacity India Scholar | Graduate from IITRoorkee"
 authorimage = "pp.jpg"
 dateformat = "Jan 2, 2006"
 
