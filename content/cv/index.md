@@ -14,6 +14,6 @@ Below is a copy of my Curriculum Vitae last updated on 4/5/2018. (I know it is a
 
 You can also reach out to me [here](mailto:pal@nabarun.in).
 
-<object data="/cv.pdf" type="application/pdf" width="100%" height="900px">
+<object data="/cv.pdf#pagemode=none" type="application/pdf" width="100%" height="900px">
 <p>It seems like your browser doesn't support PDF viewers. My CV is also available [here](/cv.pdf)</p>
 </object>
