@@ -23,7 +23,7 @@ enableRobotsTXT = true
 [params]
 author = "Nabarun Pal"
 intro = "Software Engineer && {Systems,Open Source} Enthusiast <br/> Full Time Pythonista && Noob Gopher"
-description = "Infrastructure <a href='//www.rorodata.com' target='_blank'>@rorodata</a> | John Hunter Matplotlib Summer Fellow <a href='//www.numfocus.org' target='_blank'>@numfocus</a> <br/> Google Udacity India Scholar | Graduate from IITRoorkee"
+description = "Infrastructure and Site Reliability <a href='//www.rorodata.com' target='_blank'>@rorodata</a> | John Hunter Matplotlib Summer Fellow <a href='//www.numfocus.org' target='_blank'>@numfocus</a> <br/> Google Udacity India Scholar | Graduate from IITRoorkee"
 authorimage = "pp.jpg"
 dateformat = "Jan 2, 2006"
 
