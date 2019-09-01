@@ -10,7 +10,7 @@ showpagemeta: false
 ---
 
 
-Below is a copy of my Curriculum Vitae last updated on 4/5/2018. (I know it is a bit old and I plan to update it soon)
+Below is a copy of my Curriculum Vitae last updated on 02/09/2019.
 
 You can also reach out to me [here](mailto:pal@nabarun.in).
 
