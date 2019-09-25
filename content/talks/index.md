@@ -15,7 +15,7 @@ This is a listing of the talks by me given in conferences.
 <h3>2019</h3>
 <ul>
     <!-- <li><a href="/talk/2019/pyconindia" target=_blank>PyCon India - Serverless Data Science: Scaling algorithms made simple</a> (PROPOSED)</li> -->
-    <li><a href="/talk/2019/awscdblr" target=_blank>AWS Community Day Bengaluru - Making Lambda simpler for data scientists</a> (FUTURE)</li>
+    <li><a href="/talk/2019/awscdblr" target=_blank>AWS Community Day Bengaluru - Making Lambda simpler for data scientists</a></li>
 </ul>
 
 <h3>2018</h3>
