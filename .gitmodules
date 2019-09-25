@@ -2,3 +2,8 @@
 	path = public
 	url = git@github.com:palnabarun/palnabarun.github.io
 	branch = master
+
+[submodule "themes/hugo-goa"]
+	path = themes/hugo-goa
+	url = git@github.com:palnabarun/hugo-goa
+	branch = master
