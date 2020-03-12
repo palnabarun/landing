@@ -70,3 +70,6 @@ displayrssicon = false
     identifier = "cv"
     weight = 100
     url = "/cv/"
+
+[markup.goldmark.renderer]
+unsafe= true
