@@ -24,7 +24,7 @@ enableRobotsTXT = true
 author = "Nabarun Pal"
 intro = "Software Engineer && {Systems,Open Source} Enthusiast <br/> Full Time Pythonista && Budding Gopher"
 description = "Infrastructure Engineer | John Hunter Matplotlib Summer Fellow <a href='//www.numfocus.org' target='_blank'>@numfocus</a> <br/> Google Udacity India Scholar | Graduate from IITRoorkee"
-authorimage = "pp.jpg"
+authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
