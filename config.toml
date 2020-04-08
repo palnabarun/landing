@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Nabarun Pal"
-intro = "Software Engineer && {Systems,Open Source} Enthusiast <br/> Full Time Pythonista && Budding Gopher"
-description = "Infrastructure Engineer | John Hunter Matplotlib Summer Fellow <a href='//www.numfocus.org' target='_blank'>@numfocus</a> <br/> Google Udacity India Scholar | Graduate from IITRoorkee"
+intro = "Polyglot Software Engineer | Open Source Enthusiast | Breaker of things"
+description = "Infrastructure Engineer <a href='//clarisights.com' target='_blank'>@clarisights</a> | John Hunter Matplotlib Summer Fellow <a href='//www.numfocus.org' target='_blank'>@numfocus</a> <br/> Google Udacity India Scholar | Graduate from <a href='//iitr.ac.in' target='_blank'>IIT Roorkee</a>"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
