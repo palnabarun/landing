@@ -15,8 +15,6 @@ title = "Nabarun Pal"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-#disqusShortname = "" # Comment out to disable Disqus.
-#googleAnalytics = "XYZ"
 enableRobotsTXT = true
 
 ## Site Settings
