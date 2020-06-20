@@ -5,5 +5,5 @@
 
 [submodule "themes/hugo-goa"]
 	path = themes/hugo-goa
-	url = git@github.com:palnabarun/hugo-goa
+	url = https://github.com/palnabarun/hugo-goa
 	branch = master
