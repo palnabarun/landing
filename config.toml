@@ -59,10 +59,10 @@ displayrssicon = false
 #     weight = 300
 #     url = "https://blog.nabarun.in/"
 [[menu.main]]
-    name = "cv"
-    identifier = "cv"
+    name = "resume"
+    identifier = "resume"
     weight = 100
-    url = "/cv/"
+    url = "/resume/"
 
 [markup.goldmark.renderer]
 unsafe= true

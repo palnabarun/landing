@@ -10,9 +10,9 @@ showpagemeta: false
 ---
 
 
-Below is a copy of my Curriculum Vitae last updated on 27/03/2020.
+Below is a copy of my Curriculum Vitae last updated on 31/05/2020.
 
-You can also reach out to me [here](mailto:pal@naba.run).
+You can also reach out to me at `hey [at] naba [dot] run`.
 
 <object data="/cv.pdf#pagemode=none" type="application/pdf" width="100%" height="900px">
 <p>It seems like your browser doesn't support PDF viewers. My CV is also available [here](/cv.pdf)</p>
