@@ -53,11 +53,11 @@ displayrssicon = false
     identifier = "talks"
     weight = 200
     url = "/talks/"
-# [[menu.main]]
-#     name = "blog"
-#     identifier = "blog"
-#     weight = 300
-#     url = "https://blog.nabarun.in/"
+[[menu.main]]
+    name = "blog"
+    identifier = "blog"
+    weight = 300
+    url = "https://blog.naba.run/"
 [[menu.main]]
     name = "resume"
     identifier = "resume"
