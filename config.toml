@@ -1,21 +1,14 @@
 baseurl = "https://www.nabarun.in/"
-builddrafts = false
-canonifyurls = false
 languageCode = "en-US"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-
 author = "Nabarun Pal"
 title = "Nabarun Pal"
+copyright = "&copy;2020 <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/'>CC-BY-NC-SA</a> Nabarun Pal"
 
 theme = "hugo-split-theme"
-
 enableRobotsTXT = true
 
-copyright = "&copy;2020 <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/'>CC-BY-NC-SA</a> Nabarun Pal"
 
 [params]
 author = "Nabarun Pal"
