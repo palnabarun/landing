@@ -7,3 +7,6 @@
 	path = themes/hugo-goa
 	url = https://github.com/palnabarun/hugo-goa
 	branch = master
+[submodule "themes/hugo-split-theme"]
+	path = themes/hugo-split-theme
+	url = https://github.com/palnabarun/hugo-split-theme
