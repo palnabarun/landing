@@ -1,9 +1,8 @@
-## Basic Configuration
-
 baseurl = "https://www.nabarun.in/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 contentdir = "content"
 layoutdir = "layouts"
@@ -12,57 +11,65 @@ publishdir = "public"
 author = "Nabarun Pal"
 title = "Nabarun Pal"
 
-theme = "hugo-goa"
+theme = "hugo-split-theme"
 
-## Hugo Built-in Features
 enableRobotsTXT = true
 
-## Site Settings
+copyright = "&copy;2020 <a href='https://creativecommons.org/licenses/by-nc-sa/2.0/'>CC-BY-NC-SA</a> Nabarun Pal"
+
 [params]
 author = "Nabarun Pal"
-intro = "Polyglot Software Engineer | Open Source Enthusiast | Breaker of things"
-description = "Infrastructure Engineer <a href='//clarisights.com' target='_blank'>@clarisights</a> | John Hunter Matplotlib Summer Fellow <a href='//www.numfocus.org' target='_blank'>@numfocus</a> <br/> Google Udacity India Scholar | Graduate from <a href='//iitr.ac.in' target='_blank'>IIT Roorkee</a>"
-authorimage = "headshot.jpg"
+description = "Infrastructure. Polyglot. Engineer. Open Source."
 dateformat = "Jan 2, 2006"
+shareImage = "img/deep.jpg"
+twitterHandle = "theonlynabarun"
 
-## Site Meta Settings
-[params.meta]
-description = "Landing Page for Nabarun Pal"
-keywords = "developer,blog,nabarun,pal,software,engineer"
+[params.visual]
+[params.visual.image]
+    enable = true
+    file = "img/deep.jpg"
+    position = "center center"
 
-## Social Accounts
-[params.social]
-github = "palnabarun"
-gitlab = "palnabarun"
-linkedin = "palnabarun"
-twitter = "theonlynabarun"
-stackoverflow = "nabarun-pal"
-# email = "hey@naba.run"
-keybase = "nabarun"
-gpg = "5766 AE48 2884 5256 325B DA6E 611D 5079 D826 B150"
+[[params.links]]
+[params.links.list1]
+    heading = ""
 
-## Extras
-[params.extra]
-copyright = "© 2017-2020 Nabarun Pal <a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/4.0/'><img alt='Creative Commons License' style='border-width:0' src='https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png'/></a>"
-poweredby = true
-highlightjs = true
-displayrssicon = false
+    [[params.links.list1.link]]
+    text = "Blog"
+    url = "//blog.naba.run"
 
-[[menu.main]]
-    name = "talks"
-    identifier = "talks"
-    weight = 200
+    [[params.links.list1.link]]
+    text = "GitHub"
+    url = "//blog.naba.run"
+
+    [[params.links.list1.link]]
+    text = "Keybase"
+    url = "//keybase.io/nabarun"
+
+[[params.links]]
+[params.links.list2]
+    heading = ""
+
+    [[params.links.list2.link]]
+    text = "Twitter"
+    url = "//twitter.com/theonlynabarun"
+
+    [[params.links.list2.link]]
+    text = "LinkedIn"
+    url = "//linkedin.com/in/palnabarun"
+
+    [[params.links.list2.link]]
+    text = "Email"
+    url = "mailto:hey@naba.run"
+
+[[params.links]]
+[params.links.list3]
+    heading = ""
+
+    [[params.links.list3.link]]
+    text = "Talks"
     url = "/talks/"
-[[menu.main]]
-    name = "blog"
-    identifier = "blog"
-    weight = 300
-    url = "https://blog.naba.run/"
-[[menu.main]]
-    name = "resume"
-    identifier = "resume"
-    weight = 100
-    url = "/resume/"
 
-[markup.goldmark.renderer]
-unsafe= true
+    [[params.links.list3.link]]
+    text = "Resume"
+    url = "/share/resume.pdf"
