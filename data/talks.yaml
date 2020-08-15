@@ -1,0 +1,30 @@
+---
+- year: 2020
+  talks:
+    - title: "Python: A language impacting every sphere of life!"
+      slides: https://nabarun.in/talk/2020/timestechies
+      location: "Times of India #TimesTechies Webinar"
+      cospeakers:
+        - name: Sayan Chowdhury
+          link: https://yudocaa.in/
+    - title: The Kubernetes Client Universe
+      location: Bangalore Kubernetes Meetup
+      slides: https://nabarun.in/talk/2020/k8sblr
+- year: 2019
+  talks:
+    - title: "Making Lambda simpler for data scientists"
+      slides: https://nabarun.in/talk/2019/awscdblr
+      location: AWS Community Day Bengaluru
+- year: 2018
+  talks:
+    - title: "Building Microservices with firefly"
+      slides: https://nabarun.in/talk/2018/fossasiasummit
+      location: FOSSAsia Summit
+- year: 2017
+  talks:
+    - title: "Building Microservices with firefly"
+      slides: https://nabarun.in/talk/2017/pyconindia
+      location: PyCon India
+    - title: "Building Camera Based Intelligent Applications"
+      slides: https://nabarun.in/talk/2017/pydatadelhi
+      location: PyData Delhi
