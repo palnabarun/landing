@@ -1,0 +1,8 @@
+{{- $talkYears := .Site.Data.talks -}}
+
+{{ range $talkYears }}
+### {{ .year }}
+{{ range .talks }}
+- {{ if .slides }}[{{ .title }}]({{ .slides }}){{ else }}{{ .title }}{{ end }} at {{ .location }}{{ if .cospeakers }} along with {{ range .cospeakers }}{{ if .link }}[{{ .name }}]({{ .link }}){{ else }}{{ .name }}{{ end }}{{ end }}{{ end }}
+{{ end }}
+{{ end }}
