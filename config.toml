@@ -66,3 +66,7 @@ twitterHandle = "theonlynabarun"
     [[params.links.list3.link]]
     text = "Resume"
     url = "/share/resume.pdf"
+
+    [[params.links.list3.link]]
+    text = "What I'm Doing Now"
+    url = "/now"
