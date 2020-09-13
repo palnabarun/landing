@@ -8,7 +8,7 @@ date: 2018-05-01T23:04:15+05:30
 - Managing releases, improving features and fixing bugs in [Kubernetes Python Client][k8s-python]
 - Helping out [Kubernetes SIG Contributor Experience][k8s-sig-contribex] as an [APAC Coordinator][k8s-apac-coordinator] and [New Membership Coordinator][k8s-nmc]
 - Leading the [Technology Workgroup][pycon-tech-wg] for PyCon India
-- Teaching students and professionals Free and Open Source Software at [Durgapur Linux Users' Group][dgplug]
+- Teaching students Free and Open Source Software and mentoring engineers to write better software at [foss.training][dgplug]
 
 
 [clarisights]: https://clarisights.com
