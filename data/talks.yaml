@@ -1,6 +1,9 @@
 ---
 - year: 2020
   talks:
+    - title: "Getting Started contributing to Kubernetes"
+      slides: https://www.youtube.com/watch?v=wUHajE_zrDY
+      location: HasGeek AMA on Kubernetes
     - title: "Python: A language impacting every sphere of life!"
       slides: https://nabarun.in/talk/2020/timestechies
       location: "Times of India #TimesTechies Webinar"
