@@ -1,6 +1,9 @@
 ---
 - year: 2020
   talks:
+    - title: "The 12 Factor Snake"
+      slides: https://www.nabarun.in/talk/2020/pyconindia/12-factor-snake/
+      location: PyCon India Flames
     - title: "Getting Started contributing to Kubernetes"
       slides: https://www.youtube.com/watch?v=wUHajE_zrDY
       location: HasGeek AMA on Kubernetes
