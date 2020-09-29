@@ -1,6 +1,14 @@
 ---
 - year: 2020
   talks:
+    - title: "What's new in Kubernetes 1.19"
+      slides: https://www.nabarun.in/talk/2020/cncfwebinar
+      location: CNCF Webinar
+      cospeakers:
+        - name: Taylor Dolezal
+          link: https://twitter.com/onlydole
+        - name: Max Körbächer
+          link: https://twitter.com/mkoerbi
     - title: "The 12 Factor Snake"
       slides: https://www.nabarun.in/talk/2020/pyconindia/12-factor-snake/
       location: PyCon India Flames
