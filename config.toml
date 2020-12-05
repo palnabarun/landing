@@ -33,7 +33,7 @@ twitterHandle = "theonlynabarun"
 
     [[params.links.list1.link]]
     text = "GitHub"
-    url = "//github.com/palnabarun"
+    url = "/github"
 
     [[params.links.list1.link]]
     text = "Keybase"
@@ -45,11 +45,11 @@ twitterHandle = "theonlynabarun"
 
     [[params.links.list2.link]]
     text = "Twitter"
-    url = "//twitter.com/theonlynabarun"
+    url = "/twitter"
 
     [[params.links.list2.link]]
     text = "LinkedIn"
-    url = "//linkedin.com/in/palnabarun"
+    url = "/linkedin"
 
     [[params.links.list2.link]]
     text = "Email"
