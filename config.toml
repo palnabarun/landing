@@ -61,7 +61,7 @@ twitterHandle = "theonlynabarun"
 
     [[params.links.list3.link]]
     text = "Talks"
-    url = "/talks/"
+    url = "//talks.naba.run"
 
     # [[params.links.list3.link]]
     # text = "Resume"
