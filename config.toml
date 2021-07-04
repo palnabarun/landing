@@ -19,7 +19,7 @@ twitterHandle = "theonlynabarun"
 
 [params.visual]
 [params.visual.image]
-    enable = true
+    enable = false
     file = "img/deep.jpg"
     position = "center center"
 
