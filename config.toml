@@ -8,7 +8,7 @@ copyright = "&copy;2020 <a href='https://creativecommons.org/licenses/by-nc-sa/2
 
 theme = "hugo-split-theme"
 enableRobotsTXT = true
-
+enableEmoji = true
 
 [params]
 author = "Nabarun Pal"
@@ -28,16 +28,8 @@ twitterHandle = "theonlynabarun"
     heading = ""
 
     [[params.links.list1.link]]
-    text = "Blog"
-    url = "//blog.naba.run"
-
-    [[params.links.list1.link]]
     text = "GitHub"
     url = "/github"
-
-    [[params.links.list1.link]]
-    text = "Keybase"
-    url = "//keybase.io/nabarun"
 
 [[params.links]]
 [params.links.list2]
@@ -47,26 +39,10 @@ twitterHandle = "theonlynabarun"
     text = "Twitter"
     url = "/twitter"
 
-    [[params.links.list2.link]]
-    text = "LinkedIn"
-    url = "/linkedin"
-
-    [[params.links.list2.link]]
-    text = "Email"
-    url = "mailto:hey@naba.run"
-
 [[params.links]]
 [params.links.list3]
     heading = ""
 
     [[params.links.list3.link]]
-    text = "Talks"
-    url = "//talks.naba.run"
-
-    # [[params.links.list3.link]]
-    # text = "Resume"
-    # url = "/share/resume.pdf"
-
-    [[params.links.list3.link]]
-    text = "What I'm Doing Now"
-    url = "/now"
+    text = "LinkedIn"
+    url = "/linkedin"
